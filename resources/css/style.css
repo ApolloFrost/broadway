@@ -6,6 +6,9 @@ body {
 p {
   font-size: 14px;
 }
+h1{
+  font-size: 70px;
+}
 a.navigation{
     color: white;
     font-size: 18px;
@@ -16,6 +19,12 @@ p.footer {
 h3.subheading {
   color: white;
 }
-.heading {
+/*.heading {
   font-weight: bold;
+  color: white;
+}*/
+.title{
+  background-image: url("../images/the-flatiron-building.png");
+  font-weight: bold;
+  color: white;
 }
