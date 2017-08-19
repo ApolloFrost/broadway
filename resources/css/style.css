@@ -1,1 +1,21 @@
 /* Codecademy Intensive Pro "Build Websites From Scratch": Unit 3, Day 7. Submission by P.Mroz. */
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+p {
+  font-size: 14px;
+}
+a.navigation{
+    color: white;
+    font-size: 18px;
+}
+p.footer {
+
+}
+h3.subheading {
+  color: white;
+}
+.heading {
+  font-weight: bold;
+}
